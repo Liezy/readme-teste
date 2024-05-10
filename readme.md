@@ -1,4 +1,6 @@
-﻿<p align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c6fb&height=120&section=header"/>
+
+<p align="center">
 <img style="width: 20rem" loading="lazy" src="https://uploaddeimagens.com.br/images/004/781/849/full/BarberBooker__1_-removebg-preview.png?1715347696"/>
 </p>
 
