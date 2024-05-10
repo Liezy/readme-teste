@@ -1,4 +1,8 @@
-﻿## Índice
+﻿<p align="center">
+<img style="width: 20rem" loading="lazy" src="https://uploaddeimagens.com.br/images/004/781/849/full/BarberBooker__1_-removebg-preview.png?1715347696"/>
+</p>
+
+## Índice
 
 1. [Cabeçalho](#barberbooker)
 2. [Descrição](#descrição-do-projeto)
