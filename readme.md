@@ -129,4 +129,4 @@ Os administradores têm acesso à funcionalidade de listar todos os agendamentos
 ### Protótipo
 ![Listagem de agendamentos](https://uploaddeimagens.com.br/images/004/780/838/full/imagem_2024-05-08_002910792.png?1715138953)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c6fb&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
